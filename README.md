@@ -1,5 +1,5 @@
 # node_tips
-
+http://fengyuanchen.github.io/cropper/
 
 http://emersonthompson.com.br/zoomove/
 
